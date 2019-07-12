@@ -11,4 +11,6 @@ featuredimage: /img/typescript-cover-image.jpg
 tags:
   - TypeScript JavaScript
 ---
+![](/img/typescript-cover-image.jpg)
+
 TypeScript is great
