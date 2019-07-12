@@ -9,7 +9,8 @@ description: >-
 featuredpost: true
 featuredimage: /img/typescript-cover-image.jpg
 tags:
-  - TypeScript JavaScript
+  - TypeScript
+  - JavaScript
 ---
 ![TypeScript](/img/typescript-cover-image.jpg)
 
